@@ -4,7 +4,6 @@ It's a wordpress application with custom post type called Film.
 
 ## Requirements
 
-- `Wordpress`
 - `XAMPP`
 
 ## Installation
