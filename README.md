@@ -14,7 +14,8 @@ It's a wordpress application with custom post type called Film.
 - Create a new database in MySql called `codeline_wordpress`.
 - After all the setup, go to`http://localhost/wordpress/wp-login.php`
 - UserName:- abinas, Password:- abinas
-- In Dashboard ypu can find custom post type, custom taxonomies.
+- First of all Activate the unite-child theme, if it's not activated.
+- In Dashboard you can find custom post type, custom taxonomies.
 - Create your new film.
 - While Creating add film Genre, Country, Year and Actor.
 
